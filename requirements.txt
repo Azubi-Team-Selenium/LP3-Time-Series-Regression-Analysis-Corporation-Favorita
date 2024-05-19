@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+fbprophet
+scikit-learn
+xgboost
+lightgbm
+feature-engine
+scipy
+pandas-datareader
+jupyter
+ipykernel
+nbconvert
